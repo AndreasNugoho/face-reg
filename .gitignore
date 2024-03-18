@@ -12,3 +12,4 @@ pyvenv.cfg
 pip-selfcheck.json
 /facerecognition_flask
 /2_Face_Reg_Scratch/data
+/crop_data
